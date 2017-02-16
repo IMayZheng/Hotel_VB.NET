@@ -1,0 +1,290 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hotel03
+</name>
+</assembly>
+<members>
+<member name="M:Hotel03.Team_Checkin.bindGridView1(System.String)">
+	<summary>
+ 无返回值且带参数的函数体.只能执行增删改的语句，查询不可以
+ </summary>
+	<param name="SQL">SQL语句</param>
+	<remarks></remarks>
+</member><member name="P:Hotel03.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Hotel03.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Hotel03.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.checkoutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.checkout_tempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.customertypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.engageDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.engage1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.expense_tempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.liveinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.memberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.pwdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.recordDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.roominfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.roomnumDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.roomnumsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.roomtypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.checkoutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.checkout_tempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.customertypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.engageRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.engage1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.expense_tempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.liveinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.memberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.pwdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.recordRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.roominfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.roomnumRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.roomnumsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.roomtypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.checkoutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.checkout_tempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.customertypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.engageRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.engage1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.expense_tempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.liveinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.memberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.pwdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.recordRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.roominfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.roomnumRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.roomnumsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet.roomtypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.checkoutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.checkout_tempTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.customertypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.engageTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.engage1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.expense_tempTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.liveinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.memberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.pwdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.recordTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.roominfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.roomnumTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.roomnumsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.roomtypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hotel03.sunhotelDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Hotel03.sunhotelDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hotel03.sunhotelDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Hotel03.sunhotelDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hotel03.sunhotelDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Hotel03.sunhotelDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hotel03.sunhotelDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hotel03.sunhotelDataSetTableAdapters.TableAdapterManager.UpdateAll(Hotel03.sunhotelDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hotel03.sunhotelDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

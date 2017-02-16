@@ -1,0 +1,29 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hotel03\bin\Debug\Hotel03.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hotel03\bin\Debug\Hotel03.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hotel03\bin\Debug\Hotel03.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hotel03\obj\x86\Debug\Hotel03.Login.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hotel03\obj\x86\Debug\Hotel03.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hotel03\obj\x86\Debug\Hotel03.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hotel03\obj\x86\Debug\Hotel03.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hotel03\obj\x86\Debug\Hotel03.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hotel03\obj\x86\Debug\Hotel03.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hotel03\obj\x86\Debug\Hotel03.Mainboard.resources
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.exe
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.xml
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.pdb
+E:\VB.NET\Hotel03\Hotel03\Hotel03\bin\Debug\Hotel03.exe
+E:\VB.NET\Hotel03\Hotel03\Hotel03\bin\Debug\Hotel03.pdb
+E:\VB.NET\Hotel03\Hotel03\Hotel03\bin\Debug\Hotel03.xml
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.Login.resources
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.Mainboard.resources
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.Resources.resources
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.vbproj.GenerateResource.Cache
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.Guest_Management.resources
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.Guest_PreOrder.resources
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.Team_Checkin.resources
+E:\VB.NET\Hotel03\Hotel03\Hotel03\bin\Debug\Hotel03.exe.config
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.Bill.resources
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.Personal_Checkin.resources
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.Guest_Pay.resources
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.Room_Reservation.resources
+E:\VB.NET\Hotel03\Hotel03\Hotel03\obj\x86\Debug\Hotel03.PreReservation_update.resources

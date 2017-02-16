@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{570341F3-F9F7-4C54-8B6A-A233B2A05A04}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Hotel03.My.MyApplication</StartupObject>
+    <RootNamespace>Hotel03</RootNamespace>
+    <AssemblyName>Hotel03</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Hotel03.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Hotel03.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bill.Designer.vb">
+      <DependentUpon>Bill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guest_Management.Designer.vb">
+      <DependentUpon>Guest_Management.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Guest_Management.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guest_Pay.Designer.vb">
+      <DependentUpon>Guest_Pay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Guest_Pay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guest_PreOrder.Designer.vb">
+      <DependentUpon>Guest_PreOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Guest_PreOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainboard.Designer.vb">
+      <DependentUpon>Mainboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mainboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Personal_Checkin.Designer.vb">
+      <DependentUpon>Personal_Checkin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Checkin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PreReservation_update.Designer.vb">
+      <DependentUpon>PreReservation_update.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PreReservation_update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Room_Reservation.Designer.vb">
+      <DependentUpon>Room_Reservation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Room_Reservation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sunhotelDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sunhotelDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Team_Checkin.Designer.vb">
+      <DependentUpon>Team_Checkin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Team_Checkin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bill.resx">
+      <DependentUpon>Bill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guest_Management.resx">
+      <DependentUpon>Guest_Management.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guest_Pay.resx">
+      <DependentUpon>Guest_Pay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guest_PreOrder.resx">
+      <DependentUpon>Guest_PreOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainboard.resx">
+      <DependentUpon>Mainboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Checkin.resx">
+      <DependentUpon>Personal_Checkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreReservation_update.resx">
+      <DependentUpon>PreReservation_update.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Room_Reservation.resx">
+      <DependentUpon>Room_Reservation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Team_Checkin.resx">
+      <DependentUpon>Team_Checkin.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="sunhotelDataSet.xsc">
+      <DependentUpon>sunhotelDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sunhotelDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sunhotelDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sunhotelDataSet.xss">
+      <DependentUpon>sunhotelDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
